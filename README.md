@@ -1,14 +1,3 @@
-# random-projects
-Uma bagunça total. Não tente compreender o que vai sair daqui.
+# Office
 
-
-CAOS CAOS CAOS CAOS CAOS CAOS!
-```cpp
-#include <iostream>
-using namespace std;]
-int main(){
-  while(1){
-    cout << "CAOS" << endl;
-  }
-} 
-```
+O Office será um conjunto de programas cli para auxiliar nas atividades de manipulação de planilhas e documentos usando python.
