@@ -1,8 +1,7 @@
-# random-projects
-Uma bagunça total. Não tente compreender o que vai sair daqui.
+# Web Chaos!
 
+The Web Chaos is a web aplication with focus in random pages. The random pages do not have an order. This is Chaos complete!
 
-CAOS CAOS CAOS CAOS CAOS CAOS!
 ```cpp
 #include <iostream>
 using namespace std;]
